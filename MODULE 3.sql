@@ -160,6 +160,7 @@ SHOW CREATE DATABASE company_db;
 -- Delete company_db.
 
 DROP DATABASE company_db;
+DROP DATABASE college_db;
 
 -- Create it again safely.
 

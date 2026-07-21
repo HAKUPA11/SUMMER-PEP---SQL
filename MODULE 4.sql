@@ -176,6 +176,11 @@ CREATE TABLE IF NOT EXISTS students(
 -- 13. Practice
 -- ------------------------------------------------------------
 
+SHOW DATABASES;
+USE learning;
+SHOW TABLES;
+
+
 CREATE TABLE employees(
     emp_id INT,
     emp_name VARCHAR(100),
