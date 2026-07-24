@@ -5,10 +5,10 @@
 
 PHASE 1 : SELECT, WHERE, ORDER BY, DISTINCT
 -------------------------------------------
-❌ 1148. Article Views I
-❌ 1683. Invalid Tweets
-❌ 595. Big Countries
-❌ 584. Find Customer Referee
+ 1148. Article Views I
+ 1683. Invalid Tweets
+ 595. Big Countries
+ 584. Find Customer Referee
 ❌ 620. Not Boring Movies
 ❌ 1757. Recyclable and Low Fat Products
 ❌ 1873. Calculate Special Bonus
@@ -20,7 +20,7 @@ PHASE 1 : SELECT, WHERE, ORDER BY, DISTINCT
 
 PHASE 2 : JOINS
 ---------------
-❌ 1378. Replace Employee ID With The Unique Identifier
+ 1378. Replace Employee ID With The Unique Identifier
 ❌ 1068. Product Sales Analysis I
 ❌ 577. Employee Bonus
 ❌ 1280. Students and Examinations
